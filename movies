@@ -1,0 +1,46 @@
+[
+    {
+        "movie_name": "Terminator",
+        "language": "Hindi, Tamil",
+        "imageUrl": "https://i.pinimg.com/originals/d4/89/3c/d4893cfef2275b0e4d9018c1997a2eb0.jpg",
+        "location": "Delhi"
+    },
+     {
+        "movie_name": "Avatar",
+        "language": "Hindi, English",
+        "imageUrl": "https://cdn.wallpapersafari.com/86/95/Idsx01.jpg",
+        "location": "Mumbai"
+    },
+     {
+        "movie_name": "The Maze Runner",
+        "language": "Hindi, Tamil",
+        "imageUrl": "https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2018/08/91mPBc21TcL._RI_-810x1080.jpg",
+        "location": "Gujrat"
+    },
+     {
+        "movie_name": "Thor",
+        "language": "Hindi, English",
+        "imageUrl": "http://starkovtattoo.spb.ru/images/300/DSC100332088.jpg",
+        "location": "Punjab"
+    },
+     {
+        "movie_name": "PK",
+        "language": "Hindi, Tamil",
+        "imageUrl": "https://i.ytimg.com/vi/XghE1YDdM6w/maxresdefault.jpg",
+        "location": "Delhi"
+    },
+     {
+        "movie_name": "Dhoom 3",
+        "language": "Hindi, Tamil",
+        "imageUrl": "http://i.ndtvimg.com/mt/movies/2013-09/dhoom3heroes.jpg",
+        "location": "UP"
+    },
+     {
+        "movie_name": "Aashiqui 2",
+        "language": "Hindi, Punjabi",
+        "imageUrl": "https://image.tmdb.org/t/p/w500/2Qw2bCl4cV8xu1DxMm5vvcv5SZ6.jpg",
+        "location": "HP"
+    },
+    
+    
+]
